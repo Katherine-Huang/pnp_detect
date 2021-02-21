@@ -1,6 +1,6 @@
 # pnp_detect
 
-##TO HWK:
+## TO HWK:
 pulished ROS topic : /image_pnp_points
 
 msg type:
